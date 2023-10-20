@@ -1,5 +1,6 @@
 # AI-PHASE-4!
-[Market Basket Insights](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaobV8TkT0e-RDeEBPCblETo1wEtngM4DD6g&usqp=CAU)
+
+
 Certainly! Here's a sample README file for performing association analysis for GitHub data:
 
 ---
