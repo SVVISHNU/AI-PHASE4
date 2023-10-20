@@ -1,6 +1,6 @@
 # AI-PHASE-4!
 
-![Market Basket Insights]()
+![Market Basket Insights](https://miro.medium.com/max/2880/1*DHfQvlMVBaJCHpYmj1kmCw.png)
 Certainly! Here's a sample README file for performing association analysis for GitHub data:
 
 ---
